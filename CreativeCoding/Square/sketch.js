@@ -1,7 +1,7 @@
 function setup() {
   createCanvas (720,720);
-  background ("lightblue");
-  fill ("pink");
+  background ("blue");
+  fill ("lightblue");
   strokeWeight (8);
 
 }
