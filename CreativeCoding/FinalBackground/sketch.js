@@ -2,7 +2,7 @@
 
 let gif;
 
-function preload ('assets/AbbyFinalGIF.gif')
+function preload ('Assets/AbbyFinalGIF.gif')
 
 function setup() {
   createCanvas (windowWidth,windowHeight);
