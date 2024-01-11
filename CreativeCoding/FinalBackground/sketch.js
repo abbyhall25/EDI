@@ -3,7 +3,7 @@
 let gif;
 
 function preload (){
-	gif = loadImage('Assets/AbbyFinalGIF.gif');
+	gif = loadImage('Assets/AbbyGIF2copy.gif');
 	}
 
 function setup() {
