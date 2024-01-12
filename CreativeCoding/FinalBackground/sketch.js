@@ -3,7 +3,7 @@
 let gif;
 
 function preload (){
-	gif = loadImage('Assets/AbbyFinalGIF2.gif');
+	gif = loadImage('Assets/AbbyFinalGIF.gif');
 	}
 
 function setup() {
@@ -16,7 +16,7 @@ function setup() {
 function draw() {
 
 		background ("lightblue");
-  var num = 20;
+  var num = 8;
   var sideLen = windowWidth/num;
  
   
